@@ -1,6 +1,6 @@
 # BlockGame
 The BlockGame application that first allows a game admin to design a Block game and then players to play the game and compete for an entry in the game’s hall of fame.
-The project is done over 5 iteration. 
+The project is done over 5 iterations: 
 Iteration 1 – Domain Model.
 Iteration 2 – UI Mockup, Controller Interfaces, Sequence Diagrams.
 Iteration 3 – Implementation.
